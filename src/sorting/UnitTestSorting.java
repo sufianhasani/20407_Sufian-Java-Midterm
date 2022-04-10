@@ -4,7 +4,7 @@ import org.testng.Assert;
 
 public class UnitTestSorting {
 
-    /*
+    /** INSTRUCTIONS
       This class is used to help with unit testing of sorting algorithms from the Sort class
      */
     public static void main(String[] args) {

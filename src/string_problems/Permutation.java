@@ -1,5 +1,6 @@
 package string_problems;
 
+
 public class Permutation {
 
     /*
@@ -9,4 +10,14 @@ public class Permutation {
      */
 
     // Implement Here
+    static public void StaticPermutation(String input)
+        System.out.println("Permutation of String: "+input);
+        StaticPemutation("",input);
+
+
+
+
+
+
+
 }

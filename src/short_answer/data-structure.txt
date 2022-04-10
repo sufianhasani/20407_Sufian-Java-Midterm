@@ -1,71 +1,71 @@
 ***ANSWER ALL OF THE QUESTIONS BELOW***
 
 Why do we need data structure?
-Answer:
+Answer: We need data structure to increase efficiency and performance of an application by organizing data so it requires less space with higher processing speeds.
 
 What are the various operations that can be performed on different data structures?
-Answer:
+Answer: The various operations that can be performed on different data structures are Insertion, Deletion, Traversal, Searching, Sorting,
 
 When would we use data structures in the real world?
-Answer:
+Answer: Some examples of when we would use data structures in the real world are a Queue, for when an Operating System uses queue for job scheduling, internet requests and processes, and with a Graph when a GPS navigates,
 
 What is an Array?
-Answer:
+Answer: An Array is used to store multiple values in a single variable instead of declaring seperate variables for each value
+
 
 What is the difference between Array and ArrayList?
-Answer:
+Answer: Array is a fixed length data structure, ArrayList is a variable length collection class.
 
 What is a LinkedList?
-Answer:
+Answer: A LinkedList is an ordered collection that contains many objects of the same type.
 
 How is an Array different from LinkedList?
-Answer:
+Answer: An Array is a collection of elements of a similar data type, LinkedList is an ordered collection of elements of the same type.
 
 What is a Queue?
-Answer:
+Answer: A Queue is an interface used to insert elements at the end of the queue and removes from the beginning of the queue.
 
 What is a Stack (referring to data structures)?
-Answer:
+Answer: Stack is a linear data structure that follows a particular order regarding which the operations are performed.
 
 What is FIFO and LIFO?
-Answer:
+Answer: FIFO is First In Last Out and LIFO is Last In First Out. Examples of Stack.
 
 Explain Big O Notation?
-Answer:
+Answer: Big O Notation is a mathematical notation showing how efficient an algorithm is in the worst-case scenario.
 
 What is the best case to search an element from an array?
-Answer:
+Answer: O(1) when the element is first or last in the array. (In most cases O(n))
 
 What is the worst case to search an element from an array?
-Answer:
+Answer: O(log N) meaning the number of values in a dataset increase.
 
 Describe what a tree data structure is?
-Answer:
+Answer: A tree data structure is a collection of nodes connected by directed or undirected edges.
 
 Describe what a graph data structure is?
-Answer:
+Answer: A graph is a common data structure that consists of a finite set of nodes/vertices and a set of edges connecting them.
 
 What is the difference between the HashTable and HashMap?
-Answer:
+Answer: HashTable is synchronized thread-safe and can be shared between multiple threads, HashMap is non-synchronized, can not be shared between multiple threads.
 
 How do HashMaps work in Java? How do they store values, and when are they useful?
-Answer:
+Answer: HashMaps use a technique called Hashing that implements the map interface, stores the data in the pair of key and Value, they are useful for when unique keys are available for the data we want to store
 
 What is ArrayIndexOutOfBoundsException in java? When does it occur?
-Answer:
+Answer: ArrayIndexOutOfBoundsException is indicated when we try to access array element with an illegal index & when the index is either negative or greater than or equal to the size of the array.
 
 What are the different ways of copying an array into another array?
-Answer:
+Answer: Three different ways, clone() method, arraycopy() method, copyOf()/copyOfRange()
 
 What is DFS and BFS?
-Answer:
+Answer: DFS stands for Depth First Search & BFS stands for Breadth First Search
 
 What is Recursion?
-Answer:
+Answer: Recursion is a technique of making a function call itself, providing a way to break complicated problems down to simple problems which are easier to solve.
 
 What are linear and non-linear data Structures?
-Answer:
+Answer: Linear data structures arrange the data items in an orderly manner, and Non-linear is a form of data structure where data element don't stay arranged linearly or sequentially.
 
 
 Outline different sorting algorithms and their time complexities:
-

@@ -7,12 +7,12 @@ import java.util.*;
 public class UseMap {
 
     public static void main(String[] args) throws Exception {
-        /*
+        /** INSTRUCTIONS
          * Implement code to demonstrate how to interact with a database connection, using a Map
          * You must insert the map into a table, and then you must submit & execute a query to retrieve
          * all the data_structures.data (retrieval does not need to be stored as a map)
          *
-         * Use For-Each loop and While-loop with Iterator to retrieve data_structures.data.
+         * Use For-Each loop and While-loop with Iterator to retrieve data.
          *
          * Store and retrieve data_structures.data from/to a database table.
          */
